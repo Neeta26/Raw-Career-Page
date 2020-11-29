@@ -7,4 +7,4 @@ The header section is designed using grid-areas.
 The main section uses the grid for the image collage and flex box for the content. 
 The footer section is designed using grid-template-columns and grid-template-rows.
 
-Demo URl- 
+Demo URl-  https://neeta26.github.io/Raw-Career-Page/.
